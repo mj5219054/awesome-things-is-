@@ -243,6 +243,80 @@
 - [Listen](https://github.com/listen1/listen1_chrome_extension)：聚合各大音乐平台，解决由于音乐版权致音乐不齐全的问题
 - [Gitzip](https://chrome.google.com/webstore/category/extensions?hl=zh)：只下载部分 GitHub 的资源，可勾选下载
 
+
+
+# 电子书籍
+
+
+- [Google电子书]( http://books.google.com.hk/ebooks?hl=zh-CN)：
+- [Verycd 图书]（http://www.verycd.com/archives/）：书
+
+- [ 青番茄 ] (http://www.qingfanqie.com/ )：如果你在它支持的城市中可以免费借阅
+
+4、火花网 http://www.hoohua.com  互联网相关电子书和资料分享平台
+
+ 
+
+# 论坛：
+1、Android安卓手机电子书：http://bbs.gfan.com/forum-274-1.html 
+
+2、kindleren：http://kindleren.com/forum-50-1.html 新出的网站，专门面向Kindle
+
+3、大熊网络图书馆：http://dxlibrary.5d6d.com/
+
+4、泰坦书库：http://www.titansk.com/ 
+
+5、E书园：  http://eshuyuan.com/  好书不少，清晰程度也很高，要花时间混积分。
+
+ 
+
+# 网站：
+1、ikindle 万卷书-电子书kindle推送，下载，分享.
+
+2、http://shu.im/  界面很干净，没有广告
+
+3、http://www.pdf365.com/ ＰＤＦ书籍下载
+
+4、PDF经济学电子书免费下载：http://www.jingjixue.info/ebooks
+
+5、http://www.asiaing.com/  亚洲进行时：大量英文书下载
+
+6、http://uread.superfection.com/ 至善读书，有20多万本Epub
+
+7、http://www.qepub.com/index.html 
+
+ 
+
+# 豆瓣里面的大量小组：
+电子书虫: http://www.douban.com/group/12509/
+
+电子书交换: http://www.douban.com/group/ebex/
+
+豆瓣读书之TXT下载: http://www.douban.com/group/txtbook/
+
+PDF联盟:http://www.douban.com/group/pdf/
+
+iBooks：http://www.douban.com/group/appleibooks/
+
+ 
+
+自定义搜索引擎:
+1、http://www.google.com/cse/home?cx=005194810162718251859%3Ao8kqt8bibjo
+
+2、http://wpsoso.com/
+
+3、http://www.lepdf.com/
+
+4、http://forfrigg.com/
+
+ 
+
+实际上这类网站无穷无尽，每年都有一些消失的网站，然后下一年就有一些新的网站出现，这三篇文章中介绍的网站大都是常用或偶尔去逛逛的网站
+
+
+
+
+
 ---
 
 **持续更新中。。喜欢就给我一个 start 吧**
