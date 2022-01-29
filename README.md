@@ -76,7 +76,13 @@
 - [codecademy](https://www.codecademy.com/zh/)：在线编程学习
 - [IBM developerWorks](https://www.ibm.com/developerworks/cn/)：IT教程，工具，社区
 
+- [本特利大學 Bentley University](https://careeredge.bentley.edu/resources/)：课堂平台
 
+- [东北大学 Northeastern University](https://phd.northeastern.edu/network/resources/career/)：课堂平台
+
+- [宾夕法尼亚大学 University of Pennsylvania](https://careerservices.upenn.edu/resources/)；课堂平台
+
+- [耶鲁大学 Yale University:](https://ocs.yale.edu/channels/phds-postdocs/)：官方课程
 
 **国内名校开源课程：**
 
