@@ -19,6 +19,31 @@
 - [aoding](https://www.aoding.xyz/)：翻墙
 - [多吉搜索]( https://www.dogedoge.com )：和 Google差不多
 - [Magi]( https://magi.com/ )：新出的一款基于机器学习的搜索引擎，体验非常不错，创始人 92 年的
+— [谷歌搜索] [https://www.google.com/search?q=#keyword#]
+— [百度搜索] [https://www.baidu.com/s?wd=#keyword#]
+- [Bing搜索] [https://cn.bing.com/search?q=#keyword#]
+- [360搜索] [https://www.so.com/s?q=#keyword#]
+- [智能搜索] [https://searx.space/?imyshare.com=friends?keyword=#keyword#] [新窗口]
+- [搜狗搜索] [https://www.sogou.com/web?query=#keyword#][新窗口]
+- [Yandex] [https://yandex.com/search/?text=#keyword#] (input[name=text])[新窗口]
+- [百度翻译] [https://fanyi.baidu.com/#en/zh/#keyword#] [新窗口]
+- [谷歌翻译] [https://translate.google.com/?hl=zh-CN&tab=wT0#view=home&op=translate&sl=auto&tl=zh-CN&text=#keyword#] [新窗口]
+- [搜狗翻译] [https://fanyi.sogou.com/?keyword=#keyword#] [新窗口]
+- [维基百科] [https://zh.wikipedia.org/wiki/#keyword#] [新窗口]
+- [知乎搜索] [https://www.zhihu.com/search?type=content&q=#keyword#]
+- [豆瓣搜索] [https://www.douban.com/search?source=suggest&q=#keyword#]
+- [博客园] [https://zzk.cnblogs.com/s?w=#keyword#] (input[name=Keywords]) [右侧]
+- [CSDN] [https://so.csdn.net/so/search/s.do?q=#keyword#] (#toolbar-search-input)
+- [简书] [https://www.jianshu.com/search?q=#keyword#] (#q)
+- [掘金] [https://juejin.im/search?query=#keyword#] (.search-input)
+- [MSDN] [https://docs.microsoft.com/zh-cn/search/?terms=#keyword#] [新窗口]
+- [百度图片] [https://image.baidu.com/search/index?tn=baiduimage&word=#keyword#] [新窗口]
+- [Google图片] [https://www.google.com/search?q=#keyword#&tbm=isch] [新窗口]
+- [Bing图片] [https://cn.bing.com/images/search?q=#keyword#&scenario=ImageBasicHover] [新窗口]
+- [有道词典] [https://dict.youdao.com/w/#keyword#] [新窗口]
+- [必应词典] [https://cn.bing.com/dict/search?q=#keyword#] [新窗口]
+- [Vocabulary] [https://www.vocabulary.com/dictionary/#keyword#] [新窗口]
+- [Bilibili] [http://search.bilibili.com/all?keyword=#keyword#] [新窗口]
 
 
 
