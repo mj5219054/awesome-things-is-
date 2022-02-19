@@ -19,7 +19,7 @@
 - [aoding](https://www.aoding.xyz/)：翻墙
 - [多吉搜索]( https://www.dogedoge.com )：和 Google差不多
 - [Magi]( https://magi.com/ )：新出的一款基于机器学习的搜索引擎，体验非常不错，创始人 92 年的
-— [谷歌搜索] [https://www.google.com/search?q=#keyword#]
+* [谷歌搜索] [https://www.google.com/search?q=#keyword#]
 — [百度搜索] [https://www.baidu.com/s?wd=#keyword#]
 - [Bing搜索] [https://cn.bing.com/search?q=#keyword#]
 - [360搜索] [https://www.so.com/s?q=#keyword#]
