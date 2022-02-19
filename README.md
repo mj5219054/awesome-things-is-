@@ -116,7 +116,7 @@
 - [浙江大学课程](https://qsctech.github.io/zju-icicles)
 - [中国科学技术大学课程](https://ustc-resource.github.io/USTC-Course)
 - [上海交通大学课程](https://github.com/CoolPhilChen/SJTU-Courses)
-
+- [香港中文大学文物馆](http://www.artmuseum.cuhk.edu.hk/en/)
 
 
 ## 在线工具
@@ -163,6 +163,21 @@
 
 - [Typora](https://typora.io/)：界面美观好用的 Markdown 工具
 - [HexoEditor](https://github.com/zhuzhuyule/HexoEditor)：专为 Hexo 写作的 Markdown 工具
+
+
+
+
+## 提高写作
+ 
+- [edrants](http://bookriot.com/)：美国
+
+- [香港文学资料库](https://hklit.lib.cuhk.edu.hk/)：
+
+- [亚洲小说](https://fullnovels.com/)：Welcome to Full Novels where we cover everything on Asian novels. Join and get novel updates, reading lists, and much more!
+
+
+
+
 
 
 
@@ -280,9 +295,21 @@
 
 
 - [Google电子书]( http://books.google.com.hk/ebooks?hl=zh-CN)：
-- [Verycd 图书]（http://www.verycd.com/archives/）：书
+
+- [Verycd 图书]（http://www.verycd.com/archives/） ：书
 
 - [ 青番茄 ] (http://www.qingfanqie.com/ )：如果你在它支持的城市中可以免费借阅
+
+- [德国图书馆](https://www.deutsche-digitale-bibliothek.de/)：加上梯子还能看
+
+- [哥伦比亚大学图书馆](https://dlc.library.columbia.edu/)：
+
+- [康奈尔大学图书馆](https://ecommons.cornell.edu/handle/1813/29701)：
+
+
+
+
+
 
 4、火花网 http://www.hoohua.com  互联网相关电子书和资料分享平台
 
